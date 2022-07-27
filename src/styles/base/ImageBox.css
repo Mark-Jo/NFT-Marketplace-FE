@@ -1,0 +1,27 @@
+#img-box{
+    font-family: Poppins, sans-serif;
+
+
+    border-radius: 10px;
+}
+
+
+#image-box{
+    margin-top: 1%;
+    min-width: 98%;
+    max-height:98%;
+    max-width: 98%;
+
+    object-fit:cover;
+    border-radius:30px;
+}
+#image-box-outside{
+    color: rgb(53, 56, 64);
+    width: 500px;
+    height: 100%;
+    /*object-fit:cover;*/
+    object-fit: fill;
+    border: 3px groove rgb(253, 253, 254);
+    margin-bottom: 30px;
+    border-radius: 35px;
+}
